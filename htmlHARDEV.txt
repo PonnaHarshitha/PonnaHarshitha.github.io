@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HarDev</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <section id="main">
+      <nav>
+        <a href="#" class="logo">
+          <img src="Haridev.png" alt="The logo of the project HarDev">
+        </a>
+         
+        <span class="menu-space"></span>
+        
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">courses</a></li>
+          <li><a href="#">skills</a></li>
+          <li><a href="#">content</a></li>
+        </ul>
+        <a href="#" class="chat"><strong>Chat!<strong></a>
+      </nav> 
+    </section>
+    
+    <section class="content">
+      <div class="image">
+        <img src="digitization-5140055_1920.jpg" alt="codeing">
+      </div>
+      <div class="main-text">
+        <h1>Hi Guys!!<br> Be a WEB-DEVELOPER.</h1>
+        <p>Join us to learn all the basics of Web-Developing courses.</p>
+        <a href="#" class="register">Free Register!!</a>
+      </div>
+    </section>
+    
+    
+  </body>
+</html>
