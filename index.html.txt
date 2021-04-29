@@ -30,7 +30,7 @@
       </div>
       <div class="main-text">
         <h1>Hi Guys!!<br> Be a WEB-DEVELOPER.</h1>
-        <p>Join us to learn all the baiscs of Web-Developing courses.</p>
+        <p>Join us to learn all the basics of Web-Developing courses.</p>
         <a href="#" class="register">Free Register!!</a>
       </div>
     </section>
